@@ -1,5 +1,4 @@
-# Gio - https://gioui.org
-
+# Here we will make sGio as main pages
 Immediate mode GUI programs in Go for Android, iOS, macOS, Linux,
 FreeBSD, OpenBSD, Windows, and WebAssembly (experimental).
 
